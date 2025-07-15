@@ -23,7 +23,7 @@
   
 - 📖 Passionate self-taught developer, always learning new technologies
 
-- 🔎 Take a look at my **[portfolio]()**
+- 🔎 Take a look at my **[portfolio](https://www.daikondev.dev)**
 
 - 📫 How to reach me **joel.cruz.b03@gmail.com**
 
@@ -70,5 +70,5 @@
 <br>
 <a href="https://www.linkedin.com/in/joel-cruz-bautista/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:joel.cruz.b03@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://instagram.com/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://instagram.com/joel.cb.23"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
