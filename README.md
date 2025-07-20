@@ -13,8 +13,6 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<br>
-
 - 🔭 Currently looking for my first job as a developer
   
 - 🌐 Full Stack Developer with a strong focus on Backend Development
