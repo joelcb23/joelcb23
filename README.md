@@ -23,6 +23,8 @@
   
 - 📖 Passionate self-taught developer, always learning new technologies
 
+- 📘 I’m able to read and write documentation in English. Improving speaking fluency.
+
 - 🔎 Take a look at my **[portfolio](https://www.daikondev.dev)**
 
 - 📫 How to reach me **joel.cruz.b03@gmail.com**
