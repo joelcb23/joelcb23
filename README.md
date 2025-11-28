@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Joel Cruz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
+<img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-8a2be2" />
   <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-ff9ef2" />
 </p>
