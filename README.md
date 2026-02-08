@@ -17,7 +17,7 @@
   
 - 🌐 Full Stack Developer with a strong focus on Backend Development
   
-- 🧑‍💻 Experienced with Python and JavaScript projects
+- 🧑‍💻 Experienced developing projects with Javescript and Python
   
 - 📖 Passionate self-taught developer, always learning new technologies
 
